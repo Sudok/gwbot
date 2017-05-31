@@ -7,7 +7,6 @@ gem 'pg'
 gem 'pg_search'
 gem 'rake'
 
-
 group :development do
  gem "tux"
 end
